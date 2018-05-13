@@ -1,0 +1,16 @@
+C:\Users\brijesh\Desktop\Projects\ShoppingSample\ShoppingSample\bin\Debug\netcoreapp2.0\ShoppingSample.deps.json
+C:\Users\brijesh\Desktop\Projects\ShoppingSample\ShoppingSample\bin\Debug\netcoreapp2.0\ShoppingSample.runtimeconfig.json
+C:\Users\brijesh\Desktop\Projects\ShoppingSample\ShoppingSample\bin\Debug\netcoreapp2.0\ShoppingSample.runtimeconfig.dev.json
+C:\Users\brijesh\Desktop\Projects\ShoppingSample\ShoppingSample\bin\Debug\netcoreapp2.0\ShoppingSample.dll
+C:\Users\brijesh\Desktop\Projects\ShoppingSample\ShoppingSample\bin\Debug\netcoreapp2.0\ShoppingSample.pdb
+C:\Users\brijesh\Desktop\Projects\ShoppingSample\ShoppingSample\bin\Debug\netcoreapp2.0\ShopingSample.DataAcessLayer.dll
+C:\Users\brijesh\Desktop\Projects\ShoppingSample\ShoppingSample\bin\Debug\netcoreapp2.0\ShoppingSample.Entities.dll
+C:\Users\brijesh\Desktop\Projects\ShoppingSample\ShoppingSample\bin\Debug\netcoreapp2.0\ShopingSample.DataAcessLayer.pdb
+C:\Users\brijesh\Desktop\Projects\ShoppingSample\ShoppingSample\bin\Debug\netcoreapp2.0\ShoppingSample.Entities.pdb
+C:\Users\brijesh\Desktop\Projects\ShoppingSample\ShoppingSample\obj\Debug\netcoreapp2.0\ShoppingSample.csprojResolveAssemblyReference.cache
+C:\Users\brijesh\Desktop\Projects\ShoppingSample\ShoppingSample\obj\Debug\netcoreapp2.0\ShoppingSample.csproj.CoreCompileInputs.cache
+C:\Users\brijesh\Desktop\Projects\ShoppingSample\ShoppingSample\obj\Debug\netcoreapp2.0\ShoppingSample.AssemblyInfoInputs.cache
+C:\Users\brijesh\Desktop\Projects\ShoppingSample\ShoppingSample\obj\Debug\netcoreapp2.0\ShoppingSample.AssemblyInfo.cs
+C:\Users\brijesh\Desktop\Projects\ShoppingSample\ShoppingSample\obj\Debug\netcoreapp2.0\ShoppingSample.csproj.CopyComplete
+C:\Users\brijesh\Desktop\Projects\ShoppingSample\ShoppingSample\obj\Debug\netcoreapp2.0\ShoppingSample.dll
+C:\Users\brijesh\Desktop\Projects\ShoppingSample\ShoppingSample\obj\Debug\netcoreapp2.0\ShoppingSample.pdb

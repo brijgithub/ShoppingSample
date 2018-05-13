@@ -1,0 +1,8 @@
+C:\Users\brijesh\Desktop\Projects\ShoppingSample\ShoppingSample.Entities\bin\Release\netcoreapp2.0\ShoppingSample.Entities.deps.json
+C:\Users\brijesh\Desktop\Projects\ShoppingSample\ShoppingSample.Entities\bin\Release\netcoreapp2.0\ShoppingSample.Entities.dll
+C:\Users\brijesh\Desktop\Projects\ShoppingSample\ShoppingSample.Entities\bin\Release\netcoreapp2.0\ShoppingSample.Entities.pdb
+C:\Users\brijesh\Desktop\Projects\ShoppingSample\ShoppingSample.Entities\obj\Release\netcoreapp2.0\ShoppingSample.Entities.csproj.CoreCompileInputs.cache
+C:\Users\brijesh\Desktop\Projects\ShoppingSample\ShoppingSample.Entities\obj\Release\netcoreapp2.0\ShoppingSample.Entities.AssemblyInfoInputs.cache
+C:\Users\brijesh\Desktop\Projects\ShoppingSample\ShoppingSample.Entities\obj\Release\netcoreapp2.0\ShoppingSample.Entities.AssemblyInfo.cs
+C:\Users\brijesh\Desktop\Projects\ShoppingSample\ShoppingSample.Entities\obj\Release\netcoreapp2.0\ShoppingSample.Entities.dll
+C:\Users\brijesh\Desktop\Projects\ShoppingSample\ShoppingSample.Entities\obj\Release\netcoreapp2.0\ShoppingSample.Entities.pdb

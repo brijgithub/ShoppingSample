@@ -1,0 +1,17 @@
+C:\Users\brijesh\Desktop\Projects\ShoppingSample\ShoppingSample
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=ShoppingSample
+--content-root=C:\Users\brijesh\Desktop\Projects\ShoppingSample\ShoppingSample
+--file=C:\Users\brijesh\Desktop\Projects\ShoppingSample\ShoppingSample\Views\Account\Login.cshtml
+--file=C:\Users\brijesh\Desktop\Projects\ShoppingSample\ShoppingSample\Views\Account\Register.cshtml
+--file=C:\Users\brijesh\Desktop\Projects\ShoppingSample\ShoppingSample\Views\Home\About.cshtml
+--file=C:\Users\brijesh\Desktop\Projects\ShoppingSample\ShoppingSample\Views\Home\Contact.cshtml
+--file=C:\Users\brijesh\Desktop\Projects\ShoppingSample\ShoppingSample\Views\Home\Error.cshtml
+--file=C:\Users\brijesh\Desktop\Projects\ShoppingSample\ShoppingSample\Views\Home\Index.cshtml
+--file=C:\Users\brijesh\Desktop\Projects\ShoppingSample\ShoppingSample\Views\Home\Purchase.cshtml
+--file=C:\Users\brijesh\Desktop\Projects\ShoppingSample\ShoppingSample\Views\Home\Shop.cshtml
+--file=C:\Users\brijesh\Desktop\Projects\ShoppingSample\ShoppingSample\Views\Shared\Error.cshtml
+--file=C:\Users\brijesh\Desktop\Projects\ShoppingSample\ShoppingSample\Views\Shared\_Layout.cshtml
+--file=C:\Users\brijesh\Desktop\Projects\ShoppingSample\ShoppingSample\Views\Shared\_ValidationScriptsPartial.cshtml
+--file=C:\Users\brijesh\Desktop\Projects\ShoppingSample\ShoppingSample\Views\_ViewImports.cshtml
+--file=C:\Users\brijesh\Desktop\Projects\ShoppingSample\ShoppingSample\Views\_ViewStart.cshtml
